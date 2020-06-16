@@ -1,13 +1,14 @@
 {
   "name": "@tickitzz/common",
   "version": "1.0.2",
-  "description": "",
+  "description": "middlewares & error classes for the ticket-master project",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
     "build/**/*"
   ],
   "repository": "github:Grkmk/tickitzz",
+  "homepage": "https://github.com/Grkmk/tickitzz/#readme",
   "scripts": {
     "clean": "del ./build/*",
     "build": "npm run clean && tsc"
