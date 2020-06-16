@@ -5,7 +5,7 @@ export * from './errors/not-found-error';
 export * from './errors/request-validation-error';
 export * from './errors/unauthorized-error';
 
-export * from './middleware/current-user';
-export * from './middleware/error-handler';
-export * from './middleware/require-auth';
-export * from './middleware/validate-request';
+export * from './middlewares/current-user';
+export * from './middlewares/error-handler';
+export * from './middlewares/require-auth';
+export * from './middlewares/validate-request';

@@ -7,12 +7,13 @@
   "files": [
     "build/**/*"
   ],
+  "repository": "github:Grkmk/tickitzz",
   "scripts": {
     "clean": "del ./build/*",
     "build": "npm run clean && tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gorkem Kockaya",
   "license": "ISC",
   "devDependencies": {
     "del-cli": "^3.0.1",
