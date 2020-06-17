@@ -13,3 +13,11 @@ middlewares
   - error handler
   - check auth (require-auth)
   - validate request
+
+nats streaming server events
+  - classes
+    - publisher
+    - listener
+  - interfaces
+    - created
+    - updated
