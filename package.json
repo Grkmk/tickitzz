@@ -1,6 +1,6 @@
 {
   "name": "@tickitzz/common",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "middlewares & error classes for the ticket-master project",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
