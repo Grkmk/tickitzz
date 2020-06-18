@@ -8,19 +8,21 @@ error classes:
   - request validation error
   - unauthorized error
 
-middlewares
+middlewares:
   - is current user (current-user)
   - error handler
   - check auth (require-auth)
   - validate request
 
-nats streaming server events
-  - classes
+nats streaming server events:
+  - classes:
     - publisher
     - listener
-  - interfaces
-    - created
-    - updated
-  - types
+  - interfaces:
+    - ticket created
+    - ticket updated
+    - order created
+    - order cancelled
+  - types:
     - subjects
     - order status
