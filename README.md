@@ -21,3 +21,6 @@ nats streaming server events
   - interfaces
     - created
     - updated
+  - types
+    - subjects
+    - order status
