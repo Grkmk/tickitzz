@@ -24,6 +24,7 @@ nats streaming server events:
     - order created
     - order cancelled
     - expiration complete
+    - payment created
   - types:
     - subjects
     - order status
