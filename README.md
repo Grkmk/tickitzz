@@ -23,6 +23,7 @@ nats streaming server events:
     - ticket updated
     - order created
     - order cancelled
+    - expiration complete
   - types:
     - subjects
     - order status
